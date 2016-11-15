@@ -28,10 +28,10 @@ int main(int argc, char** argv) {
     //printf("%d %d %d\n", rev->value, rev->child->value, rev->child->child->value);
 
     Node* added = add(h1, h2);
-    /*
+    
     //while((p = pop(added)) != added->value) printf("%d\n", p);
     printf("%d\n", added->child->value);
-    */
+   
 
 }
 
